@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import App from './App'
-import Home from './views/Home'
+import App from './App';
+import Home from './views/Home';
 import Search from './views/Search';
 import Movie from './views/Movie';
 import './index.css'
